@@ -1,2 +1,3 @@
 # application-3-html-css
-Elzero application coded by me
+i used Elzero webshool UI and coded it
+
